@@ -1,0 +1,4 @@
+.left-col #header .profilepic img:hover {
+    -webkit-animation:pulse 1s;
+    animation:pulse 1s;
+}
